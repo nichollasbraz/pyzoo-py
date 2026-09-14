@@ -19,7 +19,7 @@ A Python implementation of a zoo management system developed as a final academic
 
 ## Run
 ```bash
-> python main.py
+> python __main__.py
 ```
 
 ### How to Use
